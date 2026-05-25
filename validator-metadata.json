@@ -1,0 +1,20 @@
+{
+  "pub_key": "BLS_VER_KEY~",
+  "name": "nodeyuslabs",
+  "description": "Precise Validation, Guaranteed Results",
+  "company_name": "nodeyuslabs",
+  "company_website": "https://nodeyus.cloud",
+  "client_version": "1.0.0",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/Nodeyus/logoNodeyus-Labs/refs/heads/main/nodeyuslabs.png",
+      "@2x": "https://raw.githubusercontent.com/Nodeyus/logoNodeyus-Labs/refs/heads/main/nodeyuslabs.png",
+      "@3x": "https://raw.githubusercontent.com/Nodeyus/logoNodeyus-Labs/refs/heads/main/nodeyuslabs.png"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/Nodeyus/logoNodeyus-Labs/refs/heads/main/nodeyuslabs.png",
+      "@2x": "https://raw.githubusercontent.com/Nodeyus/logoNodeyus-Labs/refs/heads/main/nodeyuslabs.png",
+      "@3x": "https://raw.githubusercontent.com/Nodeyus/logoNodeyus-Labs/refs/heads/main/nodeyuslabs.png"
+    }
+  }
+}
